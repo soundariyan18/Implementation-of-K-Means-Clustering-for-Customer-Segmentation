@@ -95,7 +95,7 @@ PREDICICTED VALUE:
 
 FINAL GRAPH:
 
-![MODEL]()https://github.com/soundariyan18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/Screenshot%202023-10-29%20134958.png
+![MODEL](https://github.com/soundariyan18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/Screenshot%202023-10-29%20134958.png)
 
 
 ## Result:
