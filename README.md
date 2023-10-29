@@ -70,24 +70,31 @@ plt.title("Customer Segments")
 ## Output:
 
 data.head():
+
 ![MODEL](https://github.com/soundariyan18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/Screenshot%202023-10-14%20165733.png)
 
 data.info():
+
 ![MODEL](https://github.com/soundariyan18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/Screenshot%202023-10-29%20134802.png)
 
 NULL VALUES:
+
 ![MODEL](https://github.com/soundariyan18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/Screenshot%202023-10-29%20134821.png)
 
 ELBOW GRAPH:
+
 ![MODEL](https://github.com/soundariyan18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/Screenshot%202023-10-29%20134852.png)
 
 CLUSTER FORMATION:
+
 ![MODEL](https://github.com/soundariyan18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/Screenshot%202023-10-29%20134926.png)
 
 PREDICICTED VALUE:
+
 ![MODEL](https://github.com/soundariyan18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/Screenshot%202023-10-29%20134941.png)
 
 FINAL GRAPH:
+
 ![MODEL]()https://github.com/soundariyan18/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/Screenshot%202023-10-29%20134958.png
 
 
