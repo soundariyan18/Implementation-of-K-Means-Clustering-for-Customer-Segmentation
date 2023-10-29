@@ -67,7 +67,7 @@ plt.scatter(df3["Annual Income (k$)"],df3["Spending Score (1-100)"],c="green",la
 plt.scatter(df4["Annual Income (k$)"],df4["Spending Score (1-100)"],c="orange",label="cluster4")
 plt.legend()
 plt.title("Customer Segments")
-
+```
 
 
 ## Output:
